@@ -55,13 +55,35 @@ Hóspedes: Para realizar reservas online e verificar a disponibilidade de quarto
 ---
 
 # Proposta 03
-
-## Título_da_proposta
+## Automatização de Gestão de Academia
 
 ### Descrição
+Esta proposta visa desenvolver um sistema de gestão integrada para academias, utilizando tecnologia para otimizar processos administrativos, melhorar o engajamento dos clientes e facilitar a operação diária.
 
 ### Problema a ser solucionado
+Atualmente, muitas academias enfrentam desafios na gestão de horários de aulas, controle de pagamentos, e na comunicação eficiente com os alunos. A falta de uma plataforma integrada pode resultar em conflitos de agenda, dificuldades no acompanhamento de desempenho dos alunos e falta de transparência nas informações financeiras
 
 ### Público alvo
+Academias de médio porte, com foco em diversas modalidades esportivas, que buscam melhorar a eficiência operacional e a experiência do cliente através da tecnologia.
 
 ### Funcionalidades
+1. Gestão de Horários:
+    - Permitir agendamento de aulas por alunos e instrutores, com notificações automáticas de alterações.
+2. Controle de Pagamentos:
+    - Registro e monitoramento de mensalidades pagas e em atraso.
+3. Dashboard Administrativo:
+    - Visão geral de métricas de desempenho, como taxa de ocupação das aulas e retenção de alunos.
+4. Portal do Aluno:
+    - Acesso a horários de aulas, histórico de pagamentos e desempenho físico.
+5. Comunicação Automatizada:
+    - Envio de lembretes de aulas, promoções e atualizações para alunos via e-mail ou SMS.
+6. Integração com Sistema de Biometria:
+    - Controle de acesso automatizado às instalações da academia.
+7. Gestão de Estoque:
+    - Controle de inventário de equipamentos e suprimentos.
+8. Relatórios Financeiros:
+    - Geração de relatórios automáticos sobre fluxo de caixa, receitas e despesas.
+9. Suporte ao Cliente:
+    - Central de atendimento online para resolver dúvidas e receber feedback dos clientes.
+10. Aplicativo Mobile:
+    - Acesso às funcionalidades principais via aplicativo para smartphones.
