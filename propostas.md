@@ -27,17 +27,34 @@ Serviços de Emergência e Urgência: Atendimento imediato para situações de u
 # Proposta 02
 
 ## Título_da_proposta
-Plataforma de Suporte à Gestão de Projetos para Pequenas Empresas
+Automação de um Sistema de um Hotel Local
 
 ### Descrição
-Esta proposta visa oferecer uma solução abrangente para pequenas empresas melhorarem sua eficiência na gestão de projetos, promovendo maior colaboração, controle e sucesso na entrega de projetos.
+O projeto visa desenvolver um sistema web para automação de um hotel, utilizando HTML, JavaScript e CSS. O sistema permitirá a gestão eficiente de reservas, check-ins, check-outs, controle de ocupação, e outras operações diárias do hotel. A proposta é criar uma plataforma amigável, intuitiva e responsiva, que otimize o tempo e os recursos do hotel, melhorando a experiência tanto dos funcionários quanto dos hóspedes.
 
 ### Problema a ser solucionado
+O hotel local enfrenta dificuldades em gerenciar manualmente as reservas e a ocupação dos quartos, o que resulta em erros, overbooking, perda de tempo e insatisfação dos clientes. O objetivo do projeto é eliminar esses problemas através da automação dos processos, garantindo uma gestão mais precisa e eficiente.
 
 ### Público alvo
+Administradores do hotel: Para gerenciar reservas, check-ins, check-outs, e monitorar a ocupação dos quartos.
+
+Funcionários do hotel: Para acessar e atualizar informações em tempo real.
+
+Hóspedes: Para realizar reservas online e verificar a disponibilidade de quartos.
 
 ### Funcionalidades
-
+1. Sistema de Reservas Online:
+    - Interface para que os hóspedes possam fazer reservas.
+    - Confirmação automática de reservas por email.
+2. Gestão de Check-in e Check-out:
+    - Check-in online antecipado para hóspedes.
+    - Gestão de check-outs e cálculo automático de despesas.
+3. Controle de Ocupação:
+    - Visualização em tempo real da ocupação dos quartos.
+    - Alerta de disponibilidade e overbooking.
+4. Cadastro e Gerenciamento de Hóspedes:
+    - Cadastro de informações dos hóspedes.
+    - Histórico de estadias e preferências dos hóspedes.
 ---
 
 # Proposta 03
