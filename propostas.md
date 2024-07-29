@@ -1,7 +1,6 @@
 # Proposta 01
 
-## Título_da_proposta
-Implementação de uma Clínica Médica Multidisciplinar
+## Implementação de uma Clínica Médica Multidisciplinar
 
 ### Descrição
 A proposta é estabelecer uma clínica médica multidisciplinar que proporciona atendimento integral e personalizado. A clínica contará com uma equipe de especialistas em diversas áreas da medicina e oferecerá instalações modernas para um cuidado de alta qualidade
@@ -24,10 +23,8 @@ Serviços de Emergência e Urgência: Atendimento imediato para situações de u
 
 ---
 
-# Proposta 02
-
-## Título_da_proposta
-Automação de um Sistema de um Hotel Local
+# Proposta 02 
+## Automação de um Sistema de um Hotel Local
 
 ### Descrição
 O projeto visa desenvolver um sistema web para automação de um hotel, utilizando HTML, JavaScript e CSS. O sistema permitirá a gestão eficiente de reservas, check-ins, check-outs, controle de ocupação, e outras operações diárias do hotel. A proposta é criar uma plataforma amigável, intuitiva e responsiva, que otimize o tempo e os recursos do hotel, melhorando a experiência tanto dos funcionários quanto dos hóspedes.
